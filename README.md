@@ -13,4 +13,8 @@ A website that offers fitness training services.
 ## Contribution
 Made with ❤️ by Lucas Moraes
 
+<<<<<<< HEAD
 ### ©️2019 Run Buddy, Inc 
+=======
+### ©️2019 Run Buddy, Inc 
+>>>>>>> ce2b0bf67369584b03e6a07fb11f83aa82dd13e7
